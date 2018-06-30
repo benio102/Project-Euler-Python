@@ -28,5 +28,5 @@ def sumOfEvenFibonacci(limit):
             
 print(sumOfEvenFibonacci(100)) 
 
-#print(fibonacci(34)) #Already a value higher than 4 million
+#print(fibonacci(34)) #Already a value higher than 4 millions
 
